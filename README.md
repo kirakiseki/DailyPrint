@@ -27,7 +27,7 @@ Generate a image containing news from RSSHub
 
   可自行修改49行的版权信息
 
-## 预览
+## Preview
 
 *为防止版权问题，图片已做模糊化处理*
 
